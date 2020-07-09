@@ -21,8 +21,8 @@ I am currently build an online game for [The Werewolves of Millers Hollow](https
 
 You can take a look if you are interested in it.
 
-For the user oversea, please visit https://toxic-johann.github.io/.
-For the user in China, please vist https://toxic-johann.github.io/werewolf-web/#/.
+* For the user oversea, please visit https://toxic-johann.github.io/.
+* For the user in China, please vist https://toxic-johann.github.io/werewolf-web/#/.
 
 If you have any new ideas or you want to contribute, you can sync with us on https://github.com/toxic-johann/werewolf-web.
 

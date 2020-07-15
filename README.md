@@ -1,5 +1,7 @@
 ### Toxic Johann 👋
 
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=toxicjohann&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/toxic-johann)
+
 <!--
 **toxic-johann/toxic-johann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,8 +34,10 @@ I am working with the remote debugger. You can take a look from here. https://co
 
 If you are interested in it you can contact me directly.
 
-### Open Source Project
+### 💻 Open Source Work Stats
 
 * https://github.com/Chimeejs/chimee
 * https://github.com/toxic-johann/webpack-cdn-upload-plugin
 * https://github.com/toxic-johann/toxic-decorators
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=toxic-johann&show_icons=true)

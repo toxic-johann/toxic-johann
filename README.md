@@ -8,7 +8,7 @@ Hellow, I am **Toxic Joahnn (Heng Zhong)**. I am a Developer from China.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=toxic-johann&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxic-johann)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxic-johann)](https://github.com/toxic-johann)
 
 * https://github.com/Chimeejs/chimee
 * https://github.com/toxic-johann/webpack-cdn-upload-plugin
